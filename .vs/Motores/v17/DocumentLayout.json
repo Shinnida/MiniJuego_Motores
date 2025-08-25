@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{2652F375-FE69-5EBD-71BA-13708E8D736E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2652F375-FE69-5EBD-71BA-13708E8D736E}|Assembly-CSharp.csproj|c:\\users\\xzjes\\motores\\assets\\scripts\\barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2652F375-FE69-5EBD-71BA-13708E8D736E}|Assembly-CSharp.csproj|c:\\users\\xzjes\\motores\\assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2652F375-FE69-5EBD-71BA-13708E8D736E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2652F375-FE69-5EBD-71BA-13708E8D736E}|Assembly-CSharp.csproj|C:\\Users\\xzjes\\Motores\\assets\\scripts\\barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2652F375-FE69-5EBD-71BA-13708E8D736E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "C:\\Users\\xzjes\\Motores\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "C:\\Users\\xzjes\\Motores\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T04:10:21.091Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +49,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\xzjes\\Motores\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T03:49:01.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BarraVida.cs",
               "DocumentMoniker": "C:\\Users\\xzjes\\Motores\\Assets\\Scripts\\BarraVida.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BarraVida.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Assets\\Scripts\\BarraVida.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T03:32:19.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T03:32:19.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CicloVida.cs",
               "DocumentMoniker": "C:\\Users\\xzjes\\Motores\\Assets\\Scripts\\CicloVida.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CicloVida.cs",
